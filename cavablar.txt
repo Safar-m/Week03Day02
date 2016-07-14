@@ -1,0 +1,35 @@
+1)Düzgün və oxunaqlı CSS kodu yazmaq ucun lazım olabiləcək 10 qayda:
+    1.CSS kodlari  HTML-in yuxari hissədən başlayaraq verilməlidir.
+    2.Kodun həcmi mümkün olduğu qədər optimallasdırılmalıdır.Kodlar təkrarlanmalı deyil.
+    3.CSS kodları əlifba sırasına uyğun olaraq yazmaq daha məsləhətlidir.Bu oxunaqlığı və lazimi hissəni tapma surətini artırır.
+    4.Comment-lərin verilməsi müəyyən vaxtdan sonra yazdığımız kodun daha rahat oxunulmasını təmin edəcək.
+    5.Səkil istifadəsi zamanı mümkün qədər kiçik yaddaşa malik şəkillərdən istifadə etmək lazımdır.Məsələn( .png formatl? şəkillər)
+    6.Kodların yazılma ardıcıllığı nəzərə alınmalıdır.Üst hissədə yazılan kod Browser tərəfindən birinci interpretasiya olunur.
+    7.Class və ya id -lərə ad verərkən qisa şəkildə nə işə yaradığı qeyd olunmalı.
+    8.Class və Id-lərin adları qısa şəkildə olmalı və təkrarlanmalı deyil.
+    9.Kod yazan zaman ortaq classlardan istifadə etmək lazımdır.
+   10.Ehtiyyac varsa reset.css və ya normalize.css-dən istifadə etmək lazımdır.
+    
+2) Font Awesome kimi ikon fontları coxdur. Məsələn: 
+  	IcoMoon — http://icomoon.io
+	Fico — http://fico.lensco.be
+	Fontello — http://fontello.com
+	Pictos — http://pictos.cc
+
+3)  Azərbaycan sriftlərini dəstəkləyən 10 ədəd font ailəsinin adını və istifadə qaydasını yazın:
+Azərbaycan şriftlərini dəstəkləyən fontları ya kompun font papkasında olmalıdır ya da internetdən
+Latin Extended (latin-ext)  malik fontu köçürüb font papkasına əlavə edirik.
+Kompda font olmadıqda onun linkini HTML faylda gostərməklə online istifadəsini təmin edirik.
+Məsələn: (latin-ext) qeyd etməklə
+ <link href='https://fonts.googleapis.com/css?family=Lato&subset=latin-ext' rel='stylesheet' type='text/css'>
+
+1.Times New Roman
+2.Abel Pro
+3.Arial
+4.Algerian
+5.Calibri
+6.Cambria
+7.Sport World
+8.Lato
+9.Impact
+10.Segoe UI
